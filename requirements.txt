@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+torch==2.5.1
+scikit-learn
+tqdm
+requests
+matplotlib
